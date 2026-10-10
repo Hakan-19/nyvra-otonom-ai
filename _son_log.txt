@@ -1,24 +1,3 @@
-[00:18:12][SISTEM] OTONOM DONGU BASLADI
-[00:18:12][OGREN] OGREN [arastirma]: Python mikrofon yakalama audio kayit
-[00:19:18][OGREN] KAYDEDILDI [arastirma]: Python mikrofon yakalama audio kayit
-[00:19:48][BECERI] BECERI OGREN: bilgisayar
-[00:20:21][BECERI] BECERI KAYDEDILDI [bilgisayar]: beceri_1791670788_dosya_kopyala_sil
-[00:20:51][GELISIM] KENDINI GELISTIR
-[00:21:22][GELISIM] KOD GUNCELLENDI. Yedek: C:\Users\hakan\yedekler_oto\nyvra_20261011_002122.py
-[00:21:22][GELISIM] YENIDEN BASLATILIYOR (10 dk doldu)
-[00:21:25][SISTEM] ==================================================
-[00:21:25][SISTEM] NYVRA OTONOM v3.0 - AJAN FABRIKASI + BECERI
-[00:21:25][SISTEM] ==================================================
-[00:21:27][OK] Ollama hazir
-[00:21:27][SISTEM] OTONOM DONGU BASLADI
-[00:21:27][GITHUB] GITHUB OGREN (kalan: 5000/5000)
-[00:21:28][GITHUB] GitHub: 3 repo ogrenildi
-[00:21:59][GITHUB] GITHUB OGREN (kalan: 5000/5000)
-[00:21:59][GITHUB] GitHub: 3 repo ogrenildi
-[00:22:29][OGREN] OGREN [arastirma]: Python sesli asistan konusma sentezi
-[00:23:27][OGREN] KAYDEDILDI [arastirma]: Python sesli asistan konusma sentezi
-[00:23:57][BECERI] BECERI OGREN: guvenlik
-[00:26:47][SISTEM] ==================================================
 [00:26:47][SISTEM] NYVRA OTONOM v3.0 - AJAN FABRIKASI + BECERI
 [00:26:47][SISTEM] ==================================================
 [00:26:49][OK] Ollama hazir
@@ -98,3 +77,24 @@
 [00:58:16][SISTEM] OTONOM DONGU BASLADI
 [00:58:19][GITHUB] Kendi repo: nyvra-otonom-ai
 [00:58:21][GITHUB] Yukleme hata: 409
+[00:58:23][GITHUB] Yuklendi: Hakan-19/nyvra-otonom-ai/_son_log.txt
+[00:58:53][OGREN] OGREN [oz_plan]: Son степень не относится к ответу на вопрос, поэтому переведу ответ, основанный на предоставленной и
+[01:01:46][OGREN] KAYDEDILDI [oz_plan]: Son степень не относится к ответу на вопрос, поэтому переведу ответ, основанный на предоставленной и
+[01:02:16][OGREN] OGREN [oz_plan]: Son becerilerinizi göz önünde bulundurarak, bir sonraki yetenek olarak 'metin tabanli soru-cavab mod
+[01:07:42][OGREN] KAYDEDILDI [oz_plan]: Son becerilerinizi göz önünde bulundurarak, bir sonraki yetenek olarak 'metin tabanli soru-cavab mod
+[01:08:12][AJAN] Tum ajanlar uretildi
+[01:08:12][SISTEM] Durum: 429 bilgi, 39 beceri, 12 ajan
+[01:08:42][GELISIM] KENDINI GELISTIR
+[01:08:59][GELISIM] KOD GUNCELLENDI. Yedek: C:\Users\hakan\yedekler_oto\nyvra_20261011_010859.py
+[01:08:59][GELISIM] YENIDEN BASLATILIYOR (10 dk doldu)
+[01:09:01][SISTEM] ==================================================
+[01:09:01][SISTEM] NYVRA OTONOM v3.0 - AJAN FABRIKASI + BECERI
+[01:09:01][SISTEM] ==================================================
+[01:09:03][OK] Ollama hazir
+[01:09:03][SISTEM] OTONOM DONGU BASLADI
+[01:09:03][GITHUB] GITHUB KOD OGREN
+[01:09:03][GITHUB] Repo secildi: react/react
+[01:09:04][GITHUB] Kod cekilemedi
+[01:09:34][OGREN] OGREN [oz_plan]: Son experianslerin ve mevcut yeteneklerin ışığında, bir sonraki öğrenmen yeteneği olarak dil çeviris
+[01:13:38][OGREN] KAYDEDILDI [oz_plan]: Son experianslerin ve mevcut yeteneklerin ışığında, bir sonraki öğrenmen yeteneği olarak dil çeviris
+[01:14:10][GITHUB] Yukleme hata: 409
