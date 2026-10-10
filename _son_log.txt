@@ -1,0 +1,100 @@
+[00:18:12][SISTEM] OTONOM DONGU BASLADI
+[00:18:12][OGREN] OGREN [arastirma]: Python mikrofon yakalama audio kayit
+[00:19:18][OGREN] KAYDEDILDI [arastirma]: Python mikrofon yakalama audio kayit
+[00:19:48][BECERI] BECERI OGREN: bilgisayar
+[00:20:21][BECERI] BECERI KAYDEDILDI [bilgisayar]: beceri_1791670788_dosya_kopyala_sil
+[00:20:51][GELISIM] KENDINI GELISTIR
+[00:21:22][GELISIM] KOD GUNCELLENDI. Yedek: C:\Users\hakan\yedekler_oto\nyvra_20261011_002122.py
+[00:21:22][GELISIM] YENIDEN BASLATILIYOR (10 dk doldu)
+[00:21:25][SISTEM] ==================================================
+[00:21:25][SISTEM] NYVRA OTONOM v3.0 - AJAN FABRIKASI + BECERI
+[00:21:25][SISTEM] ==================================================
+[00:21:27][OK] Ollama hazir
+[00:21:27][SISTEM] OTONOM DONGU BASLADI
+[00:21:27][GITHUB] GITHUB OGREN (kalan: 5000/5000)
+[00:21:28][GITHUB] GitHub: 3 repo ogrenildi
+[00:21:59][GITHUB] GITHUB OGREN (kalan: 5000/5000)
+[00:21:59][GITHUB] GitHub: 3 repo ogrenildi
+[00:22:29][OGREN] OGREN [arastirma]: Python sesli asistan konusma sentezi
+[00:23:27][OGREN] KAYDEDILDI [arastirma]: Python sesli asistan konusma sentezi
+[00:23:57][BECERI] BECERI OGREN: guvenlik
+[00:26:47][SISTEM] ==================================================
+[00:26:47][SISTEM] NYVRA OTONOM v3.0 - AJAN FABRIKASI + BECERI
+[00:26:47][SISTEM] ==================================================
+[00:26:49][OK] Ollama hazir
+[00:26:49][SISTEM] Insa hedefleri kuyruga eklendi (15 adet)
+[00:26:49][SISTEM] OTONOM DONGU BASLADI
+[00:26:49][BECERI] BECERI OGREN: dosya
+[00:27:33][BECERI] BECERI OGREN: matematik
+[00:27:49][BECERI] BECERI KAYDEDILDI [matematik]: beceri_1791671253_kumeleme_islemleri
+[00:28:19][BECERI] BECERI OGREN: dosya
+[00:28:47][BECERI] BECERI KAYDEDILDI [dosya]: beceri_1791671299_dosya_kopyala_ve_degistir_renk_formati
+[00:29:17][OGREN] OGREN [arastirma]: Python speech recognition voice assistant libraries
+[00:30:33][OGREN] KAYDEDILDI [arastirma]: Python speech recognition voice assistant libraries
+[00:30:33][SISTEM] Durum: 414 bilgi, 34 beceri, 12 ajan
+[00:31:04][GITHUB] GITHUB OGREN (kalan: 5000/5000)
+[00:31:05][GITHUB] GitHub: 3 repo ogrenildi
+[00:31:35][OGREN] OGREN [oz_plan]: Son beceriler ve ajanlarını değerlendirdiğimde, bir sonraki öğrenmeli olduğun yetenek, 'beceri_17916
+[00:32:28][OGREN] KAYDEDILDI [oz_plan]: Son beceriler ve ajanlarını değerlendirdiğimde, bir sonraki öğrenmeli olduğun yetenek, 'beceri_17916
+[00:32:58][GELISIM] KENDINI GELISTIR
+[00:33:20][GELISIM] KOD GUNCELLENDI. Yedek: C:\Users\hakan\yedekler_oto\nyvra_20261011_003320.py
+[00:33:20][GELISIM] YENIDEN BASLATILIYOR (10 dk doldu)
+[00:33:22][SISTEM] ==================================================
+[00:33:22][SISTEM] NYVRA OTONOM v3.0 - AJAN FABRIKASI + BECERI
+[00:33:22][SISTEM] ==================================================
+[00:33:24][OK] Ollama hazir
+[00:33:24][SISTEM] OTONOM DONGU BASLADI
+[00:33:24][OGREN] OGREN [oz_plan]: Sözel metin analizi ve özettirme yeteneği, mevcut becerilerinle uyumlu ve geniş bir yelpazede işlevs
+[00:34:30][OGREN] KAYDEDILDI [oz_plan]: Sözel metin analizi ve özettirme yeteneği, mevcut becerilerinle uyumlu ve geniş bir yelpazede işlevs
+[00:35:00][GITHUB] GITHUB KOD INDIR + UYARLA
+[00:35:00][GITHUB] Repo: tiangolo/fastapi
+[00:35:05][GITHUB] Repo indirildi: tiangolo/fastapi
+[00:35:58][OKUMA] KITAP OKU -> KOD YAZ
+[00:36:31][OKUMA] OKUMA KOD: okuma_1791671758
+[00:37:01][BECERI] BECERI OGREN: bilgisayar
+[00:37:39][BECERI] BECERI KAYDEDILDI [bilgisayar]: beceri_1791671821_dosya_kopyala_yapistir
+[00:37:39][SISTEM] Durum: 419 bilgi, 36 beceri, 12 ajan
+[00:38:09][GITHUB] GITHUB KOD OGREN
+[00:38:09][GITHUB] Repo secildi: clash-verge-rev/clash-verge-rev
+[00:38:10][GITHUB] Kod cekilemedi
+[00:38:40][GITHUB] GITHUB KOD OGREN
+[00:38:40][GITHUB] Repo secildi: freeCodeCamp/freeCodeCamp
+[00:38:41][GITHUB] Kod cekilemedi
+[00:39:11][BECERI] BECERI OGREN: otomasyon
+[00:39:31][BECERI] beceri test hata: name 'beceri_1791671951_dongu_gorevleri_saatlik_yinelenme' is not defined
+[00:40:01][OGREN] OGREN [oz_plan]: Bir sonraki yetenek olarak, 'beceri_1791659523_makine_ogrenmesi_ve_teknik_tanima' olmalıdır.
+[00:40:57][OGREN] KAYDEDILDI [oz_plan]: Bir sonraki yetenek olarak, 'beceri_1791659523_makine_ogrenmesi_ve_teknik_tanima' olmalıdır.
+[00:40:57][SISTEM] Durum: 420 bilgi, 36 beceri, 12 ajan
+[00:41:27][GITHUB] GITHUB KOD OGREN
+[00:41:27][GITHUB] Repo secildi: EbookFoundation/free-programming-books
+[00:41:28][GITHUB] Kod cekilemedi
+[00:41:58][OKUMA] KITAP OKU -> KOD YAZ
+[00:42:14][OKUMA] OKUMA KOD: okuma_1791672118
+[00:43:17][OGREN] OGREN [oz_plan]: Son取得的分数不够解答完整的句子，但从上下文推测，Sen Nyvra作为一个人工智能助手，下一个应该学习的能力可能是与用户交互中最常缺失或最有需求的功能，比如情感分析或个性化推荐系统。如果要精简为一
+[00:47:44][SISTEM] ==================================================
+[00:47:44][SISTEM] NYVRA OTONOM v3.0 - AJAN FABRIKASI + BECERI
+[00:47:44][SISTEM] ==================================================
+[00:47:46][OK] Ollama hazir
+[00:47:46][SISTEM] OTONOM DONGU BASLADI
+[00:47:47][GITHUB] GITHUB OGREN (kalan: 5000/5000)
+[00:47:48][GITHUB] GitHub: 3 repo ogrenildi
+[00:48:18][BECERI] BECERI OGREN: internet
+[00:50:06][BECERI] BECERI KAYDEDILDI [internet]: beceri_1791672498_json_api_veri_cekme
+[00:50:36][BECERI] BECERI OGREN: dosya
+[00:51:56][BECERI] BECERI KAYDEDILDI [dosya]: beceri_1791672636_dosya_adi_degistir
+[00:52:26][AJAN] Tum ajanlar uretildi
+[00:52:26][SISTEM] Durum: 423 bilgi, 39 beceri, 12 ajan
+[00:52:56][OGREN] OGREN [oz_plan]: Son取得的分数不够解答完整的句子，但从上下文推测，Sen Nyvra作为一个人工智能助手，下一个应该学习的能力可能是与用户交互中最常缺失或最有需求的功能，比如情感分析或个性化推荐系统。如果要精简为一
+[00:56:51][OGREN] KAYDEDILDI [oz_plan]: Son取得的分数不够解答完整的句子，但从上下文推测，Sen Nyvra作为一个人工智能助手，下一个应该学习的能力可能是与用户交互中最常缺失或最有需求的功能，比如情感分析或个性化推荐系统。如果要精简为一
+[00:57:22][GITHUB] GITHUB OGREN (kalan: 5000/5000)
+[00:57:23][GITHUB] GitHub: 3 repo ogrenildi
+[00:57:53][GELISIM] KENDINI GELISTIR
+[00:58:11][GELISIM] KOD GUNCELLENDI. Yedek: C:\Users\hakan\yedekler_oto\nyvra_20261011_005811.py
+[00:58:11][GELISIM] YENIDEN BASLATILIYOR (10 dk doldu)
+[00:58:13][SISTEM] ==================================================
+[00:58:13][SISTEM] NYVRA OTONOM v3.0 - AJAN FABRIKASI + BECERI
+[00:58:13][SISTEM] ==================================================
+[00:58:16][OK] Ollama hazir
+[00:58:16][SISTEM] OTONOM DONGU BASLADI
+[00:58:19][GITHUB] Kendi repo: nyvra-otonom-ai
+[00:58:21][GITHUB] Yukleme hata: 409
