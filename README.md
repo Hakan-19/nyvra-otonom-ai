@@ -1,7 +1,7 @@
 # Nyvra - Otonom Yapay Zeka Asistani
 
 **Versiyon:** 1.0.0
-**Son guncelleme:** 2026-10-11 16:43
+**Son guncelleme:** 2026-10-11 17:14
 
 Nyvra, kendi kendini insa eden, surekli ogrenen ve gelisen bir yapay zeka asistanidir.
 GitHub, web scraping, kod uretimi ve bilgi sentezi ile kendini gelistirir.
@@ -9,7 +9,7 @@ GitHub, web scraping, kod uretimi ve bilgi sentezi ile kendini gelistirir.
 ## Istatistikler
 
 - **Bilgi:** 696
-- **Beceri:** 192
+- **Beceri:** 200
 - **Ajan:** 12
 
 ## Ogrendigi Alanlar
@@ -27,6 +27,14 @@ GitHub, web scraping, kod uretimi ve bilgi sentezi ile kendini gelistirir.
 
 ## Sahip Oldugu Beceriler (Son 20)
 
+- insa_1791731504 (insa)
+- beceri_1791731424_ortalama_hesapla (matematik)
+- insa_1791731251 (insa)
+- okuma_1791731061 (okuma_kod)
+- okuma_1791730395 (okuma_kod)
+- beceri_1791730221_dosya_sifreleme (guvenlik)
+- beceri_1791730124_dosya_oku_yaz (otomasyon)
+- insa_1791729870 (insa)
 - beceri_1791728672_csv_to_list (veri)
 - beceri_1791728252_ekran_goruntusu (bilgisayar)
 - beceri_1791727308_dosya_kopyala (dosya)
@@ -39,14 +47,6 @@ GitHub, web scraping, kod uretimi ve bilgi sentezi ile kendini gelistirir.
 - beceri_1791723911_dosya_icerik_kopyala (otomasyon)
 - beceri_1791723808_korelasyon_hesaplama (veri_bilimi)
 - okuma_1791723010 (okuma_kod)
-- beceri_1791722924_csv_to_list (veri)
-- beceri_1791722809_dosya_adi_degistir (dosya)
-- beceri_1791722611_dosya_isimleri_buyuk_harfe_cevir (dosya)
-- repokod_1791721883 (github_kod)
-- repokod_1791721742 (github_kod)
-- insa_1791720449 (insa)
-- beceri_1791719815_ekran_goruntusu (bilgisayar)
-- beceri_1791718962_video_ses_cikar (medya)
 
 ## Alt Ajanlar
 
