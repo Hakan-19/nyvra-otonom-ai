@@ -2,6 +2,8 @@
 
 Toplam: 30 beceri
 
+- **insa_1791734235** [insa]
+- **beceri_1791734100_veri_olceklemesi** [veri_bilimi]
 - **beceri_1791733826_matris_transpozu** [matematik]
 - **insa_1791733637** [insa]
 - **insa_1791733248** [insa]
@@ -30,5 +32,3 @@ Toplam: 30 beceri
 - **beceri_1791725468_dosya_oku_yaz** [otomasyon]
 - **beceri_1791725312_token_kontrol** [guvenlik]
 - **beceri_1791725224_dosya_adi_al** [bilgisayar]
-- **beceri_1791723911_dosya_icerik_kopyala** [otomasyon]
-- **beceri_1791723808_korelasyon_hesaplama** [veri_bilimi]
