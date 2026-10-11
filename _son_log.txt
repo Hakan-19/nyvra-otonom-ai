@@ -1,54 +1,3 @@
-[07:26:10][SISTEM] Durum: 548 bilgi, 98 beceri, 12 ajan
-[07:26:40][BECERI] BECERI OGREN: matematik
-[07:27:29][BECERI] BECERI KAYDEDILDI [matematik]: beceri_1791696400_matris_ters_al
-[07:27:59][BECERI] BECERI OGREN: otomasyon
-[07:29:04][BECERI] BECERI KAYDEDILDI [otomasyon]: beceri_1791696479_dosya_ac_ve_oku
-[07:29:34][GITHUB] GITHUB KOD INDIR + UYARLA
-[07:29:35][GITHUB] Repo: pallets/flask
-[07:29:36][GITHUB] Repo indirildi: pallets/flask
-[07:32:11][INSA] INSA UYGULA
-[07:33:16][INSA] INSA BECERI: insa_1791696731 (ajan_sistemi)
-[07:33:16][SISTEM] Durum: 548 bilgi, 101 beceri, 12 ajan
-[07:33:46][BECERI] BECERI OGREN: otomasyon
-[07:35:13][BECERI] BECERI KAYDEDILDI [otomasyon]: beceri_1791696826_dosya_icerik_kopyala
-[07:35:43][AJAN] Tum ajanlar uretildi
-[07:36:13][AJAN] Tum ajanlar uretildi
-[07:36:44][GITHUB] GITHUB OGREN (kalan: 5000/5000)
-[07:36:44][GITHUB] GitHub dil filtresi: python
-[07:36:45][GITHUB] GitHub: 3 repo ogrenildi
-[07:36:45][SISTEM] Durum: 551 bilgi, 102 beceri, 12 ajan
-[07:37:15][AJAN] Tum ajanlar uretildi
-[07:37:45][GITHUB] GITHUB OGREN (kalan: 5000/5000)
-[07:37:45][GITHUB] GitHub dil filtresi: python
-[07:37:46][GITHUB] GitHub: 3 repo ogrenildi
-[07:38:16][AJAN] Tum ajanlar uretildi
-[07:38:46][GELISIM] KENDINI GELISTIR
-[07:39:03][GELISIM] KOD GUNCELLENDI. Yedek: C:\Users\hakan\yedekler_oto\nyvra_20261011_073903.py
-[07:39:03][GELISIM] YENIDEN BASLATILIYOR (10 dk doldu)
-[07:39:05][SISTEM] ==================================================
-[07:39:05][SISTEM] NYVRA OTONOM v3.0 - AJAN FABRIKASI + BECERI
-[07:39:05][SISTEM] ==================================================
-[07:39:07][OK] Ollama hazir
-[07:39:07][SISTEM] OTONOM DONGU BASLADI
-[07:39:07][GITHUB] GITHUB KOD INDIR + UYARLA
-[07:39:08][GITHUB] Repo: pallets/click
-[07:39:09][GITHUB] Repo indirildi: pallets/click
-[07:40:42][BECERI] BECERI OGREN: bilgisayar
-[07:41:53][BECERI] BECERI KAYDEDILDI [bilgisayar]: beceri_1791697242_ekran_goruntusu
-[07:42:23][AJAN] Tum ajanlar uretildi
-[07:42:53][BECERI] BECERI OGREN: bilgisayar
-[07:44:22][BECERI] BECERI KAYDEDILDI [bilgisayar]: beceri_1791697373_dosya_adi_ekle
-[07:44:22][SISTEM] Durum: 554 bilgi, 104 beceri, 12 ajan
-[07:44:52][BECERI] BECERI OGREN: internet
-[07:45:44][BECERI] BECERI KAYDEDILDI [internet]: beceri_1791697492_json_api_veri_alma
-[07:46:14][INSA] INSA UYGULA
-[07:47:28][INSA] INSA BECERI: insa_1791697574 (video_kurgu)
-[07:47:58][INSA] INSA UYGULA
-[07:49:33][INSA] INSA BECERI: insa_1791697678 (video_kurgu)
-[07:50:03][BECERI] BECERI OGREN: otomasyon
-[07:51:10][BECERI] BECERI KAYDEDILDI [otomasyon]: beceri_1791697803_dosya_oku_yaz
-[07:51:10][SISTEM] Durum: 554 bilgi, 108 beceri, 12 ajan
-[07:51:42][GITHUB] Yukleme hata: 409
 [07:51:44][GITHUB] Yuklendi: Hakan-19/nyvra-otonom-ai/_son_log.txt
 [07:52:47][BECERI] BECERI OGREN: sistem
 [07:53:41][BECERI] BECERI KAYDEDILDI [sistem]: beceri_1791697967_dosya_oku
@@ -98,3 +47,54 @@
 [08:39:41][BECERI] BECERI OGREN: veri
 [08:40:41][BECERI] BECERI KAYDEDILDI [veri]: beceri_1791700781_csv_to_dict
 [08:41:14][GITHUB] Yukleme hata: 409
+[08:41:16][GITHUB] Yuklendi: Hakan-19/nyvra-otonom-ai/_son_log.txt
+[08:41:16][SISTEM] Durum: 567 bilgi, 114 beceri, 12 ajan
+[08:41:46][GELISIM] KENDINI GELISTIR
+[08:42:03][GELISIM] KOD GUNCELLENDI. Yedek: C:\Users\hakan\yedekler_oto\nyvra_20261011_084203.py
+[08:42:03][GELISIM] YENIDEN BASLATILIYOR (10 dk doldu)
+[08:42:05][SISTEM] ==================================================
+[08:42:05][SISTEM] NYVRA OTONOM v3.0 - AJAN FABRIKASI + BECERI
+[08:42:05][SISTEM] ==================================================
+[08:42:08][OK] Ollama hazir
+[08:42:08][SISTEM] OTONOM DONGU BASLADI
+[08:42:08][GITHUB] GITHUB KOD INDIR + UYARLA
+[08:42:08][GITHUB] Repo: tiangolo/typer
+[08:42:10][GITHUB] Repo indirildi: tiangolo/typer
+[08:44:57][GITHUB] KOD BECERI: repokod_1791700930
+[08:45:33][OGREN] OGREN [bilim]: Kuantum Mechaniği
+[08:49:29][OGREN] KAYDEDILDI [bilim]: Kuantum Mechaniği
+[08:49:59][BECERI] BECERI OGREN: guvenlik
+[08:51:29][BECERI] BECERI KAYDEDILDI [guvenlik]: beceri_1791701399_dosya_hash_hesapla
+[08:51:59][AJAN] Tum ajanlar uretildi
+[08:51:59][SISTEM] Durum: 568 bilgi, 116 beceri, 12 ajan
+[08:52:33][OGREN] OGREN [yapayzeka]: LLM
+[08:57:38][OGREN] KAYDEDILDI [yapayzeka]: LLM
+[08:58:12][OGREN] OGREN [sanat]: Müzik
+[09:01:56][OGREN] KAYDEDILDI [sanat]: Müzik
+[09:02:37][OGREN] OGREN [tarih]: Antik Uygarliklar: Hitit Devleti
+[09:07:13][OGREN] KAYDEDILDI [tarih]: Antik Uygarliklar: Hitit Devleti
+[09:07:49][OGREN] OGREN [felsefe]: Varoluşculuk
+[09:10:58][OGREN] KAYDEDILDI [felsefe]: Varoluşculuk
+[09:10:58][SISTEM] Durum: 572 bilgi, 116 beceri, 12 ajan
+[09:11:34][OGREN] OGREN [psikoloji]: Duygu Isleme
+[09:17:13][OGREN] KAYDEDILDI [psikoloji]: Duygu Isleme
+[09:17:43][GITHUB] GITHUB KOD INDIR + UYARLA
+[09:17:44][GITHUB] Repo: marshmallow-code/marshmallow
+[09:17:45][GITHUB] Repo indirildi: marshmallow-code/marshmallow
+[09:18:54][GITHUB] KOD BECERI: repokod_1791703065
+[09:19:25][GITHUB] GITHUB OGREN (kalan: 5000/5000)
+[09:19:25][GITHUB] GitHub dil filtresi: python
+[09:19:26][GITHUB] GitHub: 3 repo ogrenildi
+[09:19:56][BECERI] BECERI OGREN: medya
+[09:21:49][BECERI] BECERI KAYDEDILDI [medya]: beceri_1791703196_video_yeniden_boyutlandirma
+[09:21:51][SISTEM] Durum: 576 bilgi, 118 beceri, 12 ajan
+[09:22:21][INSA] INSA UYGULA
+[09:24:59][INSA] INSA BECERI: insa_1791703341 (bilgisayar_kontrol)
+[09:25:29][BECERI] BECERI OGREN: dosya
+[09:26:36][BECERI] BECERI KAYDEDILDI [dosya]: beceri_1791703529_dosya_adini_degistir
+[09:27:06][BECERI] BECERI OGREN: otomasyon
+[09:28:05][BECERI] BECERI KAYDEDILDI [otomasyon]: beceri_1791703626_dosya_acma_yetkilendirme
+[09:28:35][BECERI] BECERI OGREN: veri
+[09:29:37][BECERI] BECERI KAYDEDILDI [veri]: beceri_1791703715_csv_to_dict
+[09:29:37][SISTEM] Durum: 576 bilgi, 122 beceri, 12 ajan
+[09:30:09][GITHUB] Yukleme hata: 409
