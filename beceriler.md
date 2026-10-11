@@ -2,6 +2,14 @@
 
 Toplam: 30 beceri
 
+- **insa_1791731504** [insa]
+- **beceri_1791731424_ortalama_hesapla** [matematik]
+- **insa_1791731251** [insa]
+- **okuma_1791731061** [okuma_kod]
+- **okuma_1791730395** [okuma_kod]
+- **beceri_1791730221_dosya_sifreleme** [guvenlik]
+- **beceri_1791730124_dosya_oku_yaz** [otomasyon]
+- **insa_1791729870** [insa]
 - **beceri_1791728672_csv_to_list** [veri]
 - **beceri_1791728252_ekran_goruntusu** [bilgisayar]
 - **beceri_1791727308_dosya_kopyala** [dosya]
@@ -24,11 +32,3 @@ Toplam: 30 beceri
 - **beceri_1791718962_video_ses_cikar** [medya]
 - **beceri_1791718452_dosya_oku** [sistem]
 - **beceri_1791718333_csv_to_dict** [veri]
-- **beceri_1791718216_dosya_adi_degistir** [dosya]
-- **repokod_1791718103** [github_kod]
-- **beceri_1791717623_dosya_adi_degistir** [dosya]
-- **beceri_1791717506_dosya_kopyala** [otomasyon]
-- **repokod_1791717022** [github_kod]
-- **repokod_1791715376** [github_kod]
-- **beceri_1791715170_dosya_kopyala** [otomasyon]
-- **repokod_1791714535** [github_kod]
