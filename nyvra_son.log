@@ -1,36 +1,3 @@
-[10:29:21][SISTEM] Durum: 587 bilgi, 136 beceri, 12 ajan
-[10:29:57][OGREN] OGREN [ekonomi]: Mikroekonomi
-[10:34:13][OGREN] KAYDEDILDI [ekonomi]: Mikroekonomi
-[10:34:43][AJAN] Tum ajanlar uretildi
-[10:35:13][BECERI] BECERI OGREN: medya
-[10:36:14][BECERI] BECERI KAYDEDILDI [medya]: beceri_1791707713_video_optimizasyon
-[10:36:44][BECERI] BECERI OGREN: medya
-[10:37:56][BECERI] BECERI KAYDEDILDI [medya]: beceri_1791707804_video_ses_cikar
-[10:37:56][SISTEM] Durum: 588 bilgi, 138 beceri, 12 ajan
-[10:38:26][AJAN] Tum ajanlar uretildi
-[10:38:56][BECERI] BECERI OGREN: dosya
-[10:40:11][BECERI] BECERI KAYDEDILDI [dosya]: beceri_1791707936_dosya_adi_degistir
-[10:41:17][GITHUB] Yukleme hata: 409
-[10:41:19][GITHUB] Yuklendi: Hakan-19/nyvra-otonom-ai/_son_log.txt
-[10:41:19][SISTEM] Durum: 588 bilgi, 139 beceri, 12 ajan
-[10:41:49][BECERI] BECERI OGREN: dosya
-[10:43:07][BECERI] BECERI KAYDEDILDI [dosya]: beceri_1791708109_dosya_adi_degistir
-[10:43:37][BECERI] BECERI OGREN: otomasyon
-[10:44:39][BECERI] BECERI KAYDEDILDI [otomasyon]: beceri_1791708217_dosya_oku
-[10:45:10][GITHUB] GITHUB OGREN (kalan: 5000/5000)
-[10:45:10][GITHUB] GitHub dil filtresi: python
-[10:45:11][GITHUB] GitHub: 3 repo ogrenildi
-[10:45:41][BECERI] BECERI OGREN: medya
-[10:47:28][BECERI] BECERI KAYDEDILDI [medya]: beceri_1791708341_video_format_donustur
-[10:47:28][SISTEM] Durum: 591 bilgi, 142 beceri, 12 ajan
-[10:47:58][BECERI] BECERI OGREN: sistem
-[10:48:56][BECERI] BECERI KAYDEDILDI [sistem]: beceri_1791708478_dosya_oku
-[10:49:26][GITHUB] GITHUB KOD INDIR + UYARLA
-[10:49:27][GITHUB] Repo: pydantic/pydantic
-[10:49:29][GITHUB] Repo indirildi: pydantic/pydantic
-[10:51:30][GITHUB] KOD BECERI: repokod_1791708569
-[10:52:00][GITHUB] GITHUB KOD INDIR + UYARLA
-[10:52:01][GITHUB] Repo: tiangolo/typer
 [10:52:03][GITHUB] Repo indirildi: tiangolo/typer
 [10:54:35][GITHUB] KOD BECERI: repokod_1791708723
 [10:55:10][OGREN] OGREN [dil]: Etimoloji
@@ -498,3 +465,36 @@
 [16:43:47][GITHUB] Yukleme hata: 409
 [16:43:51][GITHUB] Yuklendi: Hakan-19/nyvra-otonom-ai/beceriler.md
 [16:43:54][GITHUB] Yuklendi: Hakan-19/nyvra-otonom-ai/surumler.md
+[16:43:57][GITHUB] Yuklendi: Hakan-19/nyvra-otonom-ai/nyvra_son.log
+[16:43:59][GITHUB] Yuklendi: Hakan-19/nyvra-otonom-ai/durum.json
+[16:43:59][GITHUB] Proje GitHub'a guncellendi (v1.0.0)
+[16:44:30][INSA] INSA UYGULA
+[16:48:14][INSA] INSA BECERI: insa_1791729870 (email_gonderme)
+[16:48:44][BECERI] BECERI OGREN: otomasyon
+[16:49:51][BECERI] BECERI KAYDEDILDI [otomasyon]: beceri_1791730124_dosya_oku_yaz
+[16:50:21][BECERI] BECERI OGREN: guvenlik
+[16:52:45][BECERI] BECERI KAYDEDILDI [guvenlik]: beceri_1791730221_dosya_sifreleme
+[16:52:45][SISTEM] Durum: 696 bilgi, 195 beceri, 12 ajan
+[16:53:15][OKUMA] KITAP OKU -> KOD YAZ
+[16:56:43][OKUMA] OKUMA KOD: okuma_1791730395
+[16:57:18][OGREN] OGREN [saglik]: Beslenme
+[17:00:04][TEKRAR] Bilgi zaten var, atlandi: Beslenme
+[17:00:04][OGREN] KAYDEDILDI [saglik]: Beslenme
+[17:01:11][OGREN] OGREN [saglik]: Beslenme
+[17:03:51][TEKRAR] Bilgi zaten var, atlandi: Beslenme
+[17:03:51][OGREN] KAYDEDILDI [saglik]: Beslenme
+[17:03:51][SISTEM] Durum: 696 bilgi, 196 beceri, 12 ajan
+[17:04:21][OKUMA] KITAP OKU -> KOD YAZ
+[17:07:01][OKUMA] OKUMA KOD: okuma_1791731061
+[17:07:31][INSA] INSA UYGULA
+[17:09:21][INSA] INSA BECERI: insa_1791731251 (video_kurgu)
+[17:10:24][BECERI] BECERI OGREN: matematik
+[17:11:14][BECERI] BECERI KAYDEDILDI [matematik]: beceri_1791731424_ortalama_hesapla
+[17:11:14][SISTEM] Durum: 696 bilgi, 199 beceri, 12 ajan
+[17:11:44][INSA] INSA UYGULA
+[17:14:11][INSA] INSA BECERI: insa_1791731504 (video_kurgu)
+[17:14:41][GITHUB] GITHUB PROJE GUNCELLE
+[17:14:43][GITHUB] Yuklendi: Hakan-19/nyvra-otonom-ai/README.md
+[17:14:46][GITHUB] Yukleme hata: 409
+[17:14:50][GITHUB] Yuklendi: Hakan-19/nyvra-otonom-ai/beceriler.md
+[17:14:53][GITHUB] Yuklendi: Hakan-19/nyvra-otonom-ai/surumler.md
