@@ -1,52 +1,3 @@
-[11:45:38][BECERI] BECERI OGREN: internet
-[11:46:56][BECERI] BECERI KAYDEDILDI [internet]: beceri_1791711938_json_api_veri_cek
-[11:47:26][GITHUB] GITHUB OGREN (kalan: 5000/5000)
-[11:47:26][GITHUB] GitHub dil filtresi: python
-[11:47:27][GITHUB] GitHub: 3 repo ogrenildi
-[11:47:57][GELISIM] KENDINI GELISTIR
-[11:48:18][GELISIM] KOD GUNCELLENDI. Yedek: C:\Users\hakan\yedekler_oto\nyvra_20261011_114818.py
-[11:48:18][GELISIM] YENIDEN BASLATILIYOR (10 dk doldu)
-[11:48:21][SISTEM] ==================================================
-[11:48:21][SISTEM] NYVRA OTONOM v3.0 - AJAN FABRIKASI + BECERI
-[11:48:21][SISTEM] ==================================================
-[11:48:23][OK] Ollama hazir
-[11:48:23][SISTEM] OTONOM DONGU BASLADI
-[11:48:23][GITHUB] GITHUB OGREN (kalan: 5000/5000)
-[11:48:23][GITHUB] GitHub dil filtresi: python
-[11:48:24][GITHUB] GitHub: 3 repo ogrenildi
-[11:48:54][OKUMA] KITAP OKU -> KOD YAZ
-[11:51:13][OKUMA] OKUMA KOD: okuma_1791712134
-[11:51:43][BECERI] BECERI OGREN: matematik
-[11:52:51][BECERI] BECERI KAYDEDILDI [matematik]: beceri_1791712303_eksen_wise_toplam
-[11:53:21][BECERI] BECERI OGREN: sistem
-[11:54:22][BECERI] BECERI KAYDEDILDI [sistem]: beceri_1791712401_dosya_oku
-[11:54:22][SISTEM] Durum: 610 bilgi, 157 beceri, 12 ajan
-[11:54:52][BECERI] BECERI OGREN: veri
-[11:55:45][BECERI] BECERI KAYDEDILDI [veri]: beceri_1791712492_csv_to_list
-[11:56:48][GELISIM] KENDINI GELISTIR
-[11:57:10][GELISIM] KOD GUNCELLENDI. Yedek: C:\Users\hakan\yedekler_oto\nyvra_20261011_115710.py
-[11:57:10][GELISIM] Restart ertelendi (68 sn kaldi)
-[11:57:40][BECERI] BECERI OGREN: veri
-[11:58:43][BECERI] BECERI KAYDEDILDI [veri]: beceri_1791712660_csv_to_list
-[11:58:43][SISTEM] Durum: 610 bilgi, 159 beceri, 12 ajan
-[12:00:02][OGREN] OGREN [oyun]: oyun hakkinda genel bilgi
-[12:04:09][OGREN] KAYDEDILDI [oyun]: oyun hakkinda genel bilgi
-[12:04:44][OGREN] OGREN [hukuk]: Ceza Hukuku
-[12:08:29][OGREN] KAYDEDILDI [hukuk]: Ceza Hukuku
-[12:08:59][OKUMA] KITAP OKU -> KOD YAZ
-[12:11:39][OKUMA] OKUMA KOD: okuma_1791713339
-[12:12:09][AJAN] Tum ajanlar uretildi
-[12:12:09][SISTEM] Durum: 612 bilgi, 160 beceri, 12 ajan
-[12:12:39][GELISIM] KENDINI GELISTIR
-[12:13:00][GELISIM] KOD GUNCELLENDI. Yedek: C:\Users\hakan\yedekler_oto\nyvra_20261011_121300.py
-[12:13:00][GELISIM] YENIDEN BASLATILIYOR (10 dk doldu)
-[12:13:02][SISTEM] ==================================================
-[12:13:02][SISTEM] NYVRA OTONOM v3.0 - AJAN FABRIKASI + BECERI
-[12:13:02][SISTEM] ==================================================
-[12:13:04][OK] Ollama hazir
-[12:13:04][SISTEM] OTONOM DONGU BASLADI
-[12:13:04][BECERI] BECERI OGREN: guvenlik
-[12:14:36][BECERI] BECERI KAYDEDILDI [guvenlik]: beceri_1791713584_dosya_hashle
 [12:15:11][OGREN] OGREN [uzay]: Gezegenler
 [12:18:27][OGREN] KAYDEDILDI [uzay]: Gezegenler
 [12:18:57][GITHUB] GITHUB KOD INDIR + UYARLA
@@ -498,3 +449,52 @@
 [17:58:49][GITHUB] Yukleme hata: 409
 [17:58:52][GITHUB] Yuklendi: Hakan-19/nyvra-otonom-ai/beceriler.md
 [17:58:55][GITHUB] Yuklendi: Hakan-19/nyvra-otonom-ai/surumler.md
+[17:58:59][GITHUB] Yuklendi: Hakan-19/nyvra-otonom-ai/nyvra_son.log
+[17:59:01][GITHUB] Yuklendi: Hakan-19/nyvra-otonom-ai/durum.json
+[17:59:01][GITHUB] Proje GitHub'a guncellendi (v1.0.1)
+[17:59:01][SISTEM] Durum: 698 bilgi, 213 beceri, 12 ajan
+[17:59:31][GELISIM] KENDINI GELISTIR
+[17:59:51][GELISIM] KOD GUNCELLENDI. Yedek: C:\Users\hakan\yedekler_oto\nyvra_20261011_175951.py
+[17:59:51][VERSIYON] Versiyon: 1.0.1 -> 1.0.2
+[17:59:51][GELISIM] YENIDEN BASLATILIYOR (10 dk doldu)
+[17:59:54][SISTEM] ==================================================
+[17:59:54][SISTEM] NYVRA OTONOM v3.0 - AJAN FABRIKASI + BECERI
+[17:59:54][SISTEM] ==================================================
+[17:59:56][OK] Ollama hazir
+[17:59:56][SISTEM] OTONOM DONGU BASLADI
+[17:59:56][SENTEZ] BILGI SENTEZLE (kitap okuma)
+[18:00:42][SENTEZ] SENTEZ: 414 char
+[18:01:12][BECERI] BECERI OGREN: dosya
+[18:02:24][BECERI] BECERI KAYDEDILDI [dosya]: beceri_1791734472_dosya_adi_degistir
+[18:02:54][SENTEZ] BILGI SENTEZLE (kitap okuma)
+[18:03:45][SENTEZ] SENTEZ: 357 char
+[18:04:15][SENTEZ] BILGI SENTEZLE (kitap okuma)
+[18:05:13][SENTEZ] SENTEZ: 431 char
+[18:05:13][SISTEM] Durum: 701 bilgi, 214 beceri, 12 ajan
+[18:05:43][AJAN] Tum ajanlar uretildi
+[18:06:13][SENTEZ] BILGI SENTEZLE (kitap okuma)
+[18:07:38][GITHUB] GITHUB KOD INDIR + UYARLA
+[18:07:38][GITHUB] Repo: encode/httpx
+[18:07:40][GITHUB] Repo indirildi: encode/httpx
+[18:11:17][INSA] INSA UYGULA
+[18:13:08][INSA] INSA BECERI: insa_1791735077 (pencere_yonetimi)
+[18:13:08][SISTEM] Durum: 701 bilgi, 215 beceri, 12 ajan
+[18:13:38][AJAN] Tum ajanlar uretildi
+[18:14:08][INSA] INSA UYGULA
+[18:15:32][INSA] INSA BECERI: insa_1791735249 (ajan_sistemi)
+[18:16:02][BECERI] BECERI OGREN: internet
+[18:16:44][BECERI] BECERI KAYDEDILDI [internet]: beceri_1791735362_api_verisi_cek
+[18:17:14][GELISIM] KENDINI GELISTIR
+[18:17:36][GELISIM] KOD GUNCELLENDI. Yedek: C:\Users\hakan\yedekler_oto\nyvra_20261011_181736.py
+[18:17:36][VERSIYON] Versiyon: 1.0.2 -> 1.0.3
+[18:17:36][GELISIM] YENIDEN BASLATILIYOR (10 dk doldu)
+[18:17:38][SISTEM] ==================================================
+[18:17:38][SISTEM] NYVRA OTONOM v3.0 - AJAN FABRIKASI + BECERI
+[18:17:38][SISTEM] ==================================================
+[18:17:40][OK] Ollama hazir
+[18:17:40][SISTEM] OTONOM DONGU BASLADI
+[18:17:40][GITHUB] GITHUB PROJE GUNCELLE
+[18:17:43][GITHUB] Yuklendi: Hakan-19/nyvra-otonom-ai/README.md
+[18:17:46][GITHUB] Yukleme hata: 409
+[18:17:49][GITHUB] Yuklendi: Hakan-19/nyvra-otonom-ai/beceriler.md
+[18:17:52][GITHUB] Yuklendi: Hakan-19/nyvra-otonom-ai/surumler.md
