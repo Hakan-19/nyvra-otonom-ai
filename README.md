@@ -1,15 +1,15 @@
 # Nyvra - Otonom Yapay Zeka Asistani
 
 **Versiyon:** 1.0.1
-**Son guncelleme:** 2026-10-11 17:38
+**Son guncelleme:** 2026-10-11 17:54
 
 Nyvra, kendi kendini insa eden, surekli ogrenen ve gelisen bir yapay zeka asistanidir.
 GitHub, web scraping, kod uretimi ve bilgi sentezi ile kendini gelistirir.
 
 ## Istatistikler
 
-- **Bilgi:** 696
-- **Beceri:** 208
+- **Bilgi:** 698
+- **Beceri:** 211
 - **Ajan:** 12
 
 ## Ogrendigi Alanlar
@@ -27,6 +27,9 @@ GitHub, web scraping, kod uretimi ve bilgi sentezi ile kendini gelistirir.
 
 ## Sahip Oldugu Beceriler (Son 20)
 
+- beceri_1791733826_matris_transpozu (matematik)
+- insa_1791733637 (insa)
+- insa_1791733248 (insa)
 - insa_1791733006 (insa)
 - okuma_1791732811 (okuma_kod)
 - beceri_1791732709_korelasyon_hesapla (veri_bilimi)
@@ -44,9 +47,6 @@ GitHub, web scraping, kod uretimi ve bilgi sentezi ile kendini gelistirir.
 - beceri_1791730124_dosya_oku_yaz (otomasyon)
 - insa_1791729870 (insa)
 - beceri_1791728672_csv_to_list (veri)
-- beceri_1791728252_ekran_goruntusu (bilgisayar)
-- beceri_1791727308_dosya_kopyala (dosya)
-- insa_1791727120 (insa)
 
 ## Alt Ajanlar
 
