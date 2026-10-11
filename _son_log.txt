@@ -1,21 +1,3 @@
-[07:17:07][GITHUB] Repo: marshmallow-code/marshmallow
-[07:17:09][GITHUB] Repo indirildi: marshmallow-code/marshmallow
-[07:19:30][BECERI] BECERI OGREN: otomasyon
-[07:20:56][BECERI] BECERI KAYDEDILDI [otomasyon]: beceri_1791695970_dosya_oku_ve_yaz
-[07:21:26][GITHUB] GITHUB OGREN (kalan: 5000/5000)
-[07:21:26][GITHUB] GitHub dil filtresi: python
-[07:21:27][GITHUB] GitHub: 3 repo ogrenildi
-[07:21:57][BECERI] BECERI OGREN: veri
-[07:23:00][BECERI] BECERI KAYDEDILDI [veri]: beceri_1791696117_csv_to_dict
-[07:23:00][SISTEM] Durum: 545 bilgi, 97 beceri, 12 ajan
-[07:23:31][GITHUB] GITHUB OGREN (kalan: 5000/5000)
-[07:23:31][GITHUB] GitHub dil filtresi: python
-[07:23:32][GITHUB] GitHub: 3 repo ogrenildi
-[07:24:35][GITHUB] GITHUB KOD INDIR + UYARLA
-[07:24:36][GITHUB] Repo: faker-py/faker
-[07:24:37][GITHUB] Repo bulunamadi (404): faker-py/faker
-[07:25:07][BECERI] BECERI OGREN: dosya
-[07:26:10][BECERI] BECERI KAYDEDILDI [dosya]: beceri_1791696307_dosya_adini_degistir
 [07:26:10][SISTEM] Durum: 548 bilgi, 98 beceri, 12 ajan
 [07:26:40][BECERI] BECERI OGREN: matematik
 [07:27:29][BECERI] BECERI KAYDEDILDI [matematik]: beceri_1791696400_matris_ters_al
@@ -98,3 +80,21 @@
 [08:23:11][OGREN] OGREN [hukuk]: Ceza Hukuku
 [08:26:23][OGREN] KAYDEDILDI [hukuk]: Ceza Hukuku
 [08:26:55][GITHUB] Yukleme hata: 409
+[08:26:57][GITHUB] Yuklendi: Hakan-19/nyvra-otonom-ai/_son_log.txt
+[08:26:57][SISTEM] Durum: 562 bilgi, 113 beceri, 12 ajan
+[08:27:27][GITHUB] GITHUB OGREN (kalan: 5000/5000)
+[08:27:27][GITHUB] GitHub dil filtresi: python
+[08:27:28][GITHUB] GitHub: 3 repo ogrenildi
+[08:28:03][OGREN] OGREN [uzay]: Gezegenler
+[08:32:22][OGREN] KAYDEDILDI [uzay]: Gezegenler
+[08:32:52][AJAN] Tum ajanlar uretildi
+[08:33:22][GITHUB] GITHUB KOD INDIR + UYARLA
+[08:33:22][GITHUB] Repo: getsentry/sentry-python
+[08:33:24][GITHUB] Repo indirildi: getsentry/sentry-python
+[08:35:28][SISTEM] Durum: 566 bilgi, 113 beceri, 12 ajan
+[08:35:58][AJAN] Tum ajanlar uretildi
+[08:36:31][OGREN] OGREN [programlama]: Python
+[08:39:11][OGREN] KAYDEDILDI [programlama]: Python
+[08:39:41][BECERI] BECERI OGREN: veri
+[08:40:41][BECERI] BECERI KAYDEDILDI [veri]: beceri_1791700781_csv_to_dict
+[08:41:14][GITHUB] Yukleme hata: 409
