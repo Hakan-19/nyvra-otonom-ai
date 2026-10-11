@@ -2,6 +2,10 @@
 
 Toplam: 30 beceri
 
+- **beceri_1791735362_api_verisi_cek** [internet]
+- **insa_1791735249** [insa]
+- **insa_1791735077** [insa]
+- **beceri_1791734472_dosya_adi_degistir** [dosya]
 - **insa_1791734235** [insa]
 - **beceri_1791734100_veri_olceklemesi** [veri_bilimi]
 - **beceri_1791733826_matris_transpozu** [matematik]
@@ -28,7 +32,3 @@ Toplam: 30 beceri
 - **beceri_1791727308_dosya_kopyala** [dosya]
 - **insa_1791727120** [insa]
 - **repokod_1791726470** [github_kod]
-- **okuma_1791725815** [okuma_kod]
-- **beceri_1791725468_dosya_oku_yaz** [otomasyon]
-- **beceri_1791725312_token_kontrol** [guvenlik]
-- **beceri_1791725224_dosya_adi_al** [bilgisayar]
