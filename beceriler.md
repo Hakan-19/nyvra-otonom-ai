@@ -2,6 +2,9 @@
 
 Toplam: 30 beceri
 
+- **beceri_1791733826_matris_transpozu** [matematik]
+- **insa_1791733637** [insa]
+- **insa_1791733248** [insa]
 - **insa_1791733006** [insa]
 - **okuma_1791732811** [okuma_kod]
 - **beceri_1791732709_korelasyon_hesapla** [veri_bilimi]
@@ -29,6 +32,3 @@ Toplam: 30 beceri
 - **beceri_1791725224_dosya_adi_al** [bilgisayar]
 - **beceri_1791723911_dosya_icerik_kopyala** [otomasyon]
 - **beceri_1791723808_korelasyon_hesaplama** [veri_bilimi]
-- **okuma_1791723010** [okuma_kod]
-- **beceri_1791722924_csv_to_list** [veri]
-- **beceri_1791722809_dosya_adi_degistir** [dosya]
