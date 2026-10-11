@@ -1,31 +1,3 @@
-[11:15:10][GITHUB] Repo indirildi: psf/black
-[11:16:08][GITHUB] KOD BECERI: repokod_1791710110
-[11:16:08][SISTEM] Durum: 596 bilgi, 149 beceri, 12 ajan
-[11:16:45][OGREN] OGREN [yemek]: Türk Mutfağında Lahmacun
-[11:21:04][OGREN] KAYDEDILDI [yemek]: Türk Mutfağında Lahmacun
-[11:21:35][GITHUB] GITHUB OGREN (kalan: 5000/5000)
-[11:21:35][GITHUB] GitHub dil filtresi: python
-[11:21:35][GITHUB] GitHub: 3 repo ogrenildi
-[11:22:05][AJAN] Tum ajanlar uretildi
-[11:22:37][GITHUB] Yukleme hata: 409
-[11:22:39][GITHUB] Yuklendi: Hakan-19/nyvra-otonom-ai/_son_log.txt
-[11:22:39][SISTEM] Durum: 600 bilgi, 149 beceri, 12 ajan
-[11:23:09][BECERI] BECERI OGREN: matematik
-[11:24:21][BECERI] BECERI KAYDEDILDI [matematik]: beceri_1791710589_polinom_teyit
-[11:24:51][GITHUB] GITHUB KOD INDIR + UYARLA
-[11:24:52][GITHUB] Repo: pallets/flask
-[11:24:53][GITHUB] Repo indirildi: pallets/flask
-[11:27:25][GITHUB] GITHUB KOD INDIR + UYARLA
-[11:27:25][GITHUB] Repo: sqlalchemy/sqlalchemy
-[11:27:27][GITHUB] Repo indirildi: sqlalchemy/sqlalchemy
-[11:30:57][OGREN] OGREN [spor]: futbol
-[11:34:10][OGREN] KAYDEDILDI [spor]: futbol
-[11:34:10][SISTEM] Durum: 601 bilgi, 150 beceri, 12 ajan
-[11:34:40][BECERI] BECERI OGREN: guvenlik
-[11:36:41][BECERI] BECERI KAYDEDILDI [guvenlik]: beceri_1791711280_dosya_hash_hesaplama
-[11:37:11][GITHUB] GITHUB KOD INDIR + UYARLA
-[11:37:11][GITHUB] Repo: psf/requests
-[11:37:13][GITHUB] Repo indirildi: psf/requests
 [11:38:53][GITHUB] KOD BECERI: repokod_1791711433
 [11:39:23][GITHUB] GITHUB KOD INDIR + UYARLA
 [11:39:23][GITHUB] Repo: huggingface/transformers
@@ -498,3 +470,31 @@
 [17:38:45][GITHUB] Yukleme hata: 409
 [17:38:49][GITHUB] Yuklendi: Hakan-19/nyvra-otonom-ai/beceriler.md
 [17:39:09][GITHUB] Yuklendi: Hakan-19/nyvra-otonom-ai/surumler.md
+[17:39:12][GITHUB] Yuklendi: Hakan-19/nyvra-otonom-ai/nyvra_son.log
+[17:39:14][GITHUB] Yuklendi: Hakan-19/nyvra-otonom-ai/durum.json
+[17:39:14][GITHUB] Proje GitHub'a guncellendi (v1.0.1)
+[17:40:18][AJAN] Tum ajanlar uretildi
+[17:40:48][INSA] INSA UYGULA
+[17:43:06][INSA] INSA BECERI: insa_1791733248 (dosya_yonetimi)
+[17:43:06][SISTEM] Durum: 696 bilgi, 209 beceri, 12 ajan
+[17:43:36][GITHUB] GITHUB KOD INDIR + UYARLA
+[17:43:37][GITHUB] Repo: python-poetry/cleo
+[17:43:38][GITHUB] Repo indirildi: python-poetry/cleo
+[17:45:33][GITHUB] GITHUB KOD INDIR + UYARLA
+[17:45:34][GITHUB] Repo: encode/httpx
+[17:45:36][GITHUB] Repo indirildi: encode/httpx
+[17:47:17][INSA] INSA UYGULA
+[17:48:18][INSA] INSA BECERI: insa_1791733637 (ses_tanima)
+[17:48:48][SENTEZ] BILGI SENTEZLE (kitap okuma)
+[17:49:56][SENTEZ] SENTEZ: 491 char
+[17:49:56][SISTEM] Durum: 697 bilgi, 210 beceri, 12 ajan
+[17:50:26][BECERI] BECERI OGREN: matematik
+[17:51:21][BECERI] BECERI KAYDEDILDI [matematik]: beceri_1791733826_matris_transpozu
+[17:52:25][SENTEZ] BILGI SENTEZLE (kitap okuma)
+[17:53:09][SENTEZ] SENTEZ: 341 char
+[17:53:42][SISTEM] Durum: 698 bilgi, 211 beceri, 12 ajan
+[17:54:12][GITHUB] GITHUB PROJE GUNCELLE
+[17:54:15][GITHUB] Yuklendi: Hakan-19/nyvra-otonom-ai/README.md
+[17:54:18][GITHUB] Yukleme hata: 409
+[17:54:21][GITHUB] Yuklendi: Hakan-19/nyvra-otonom-ai/beceriler.md
+[17:54:24][GITHUB] Yuklendi: Hakan-19/nyvra-otonom-ai/surumler.md
