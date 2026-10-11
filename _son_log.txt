@@ -1,49 +1,3 @@
-[08:32:52][AJAN] Tum ajanlar uretildi
-[08:33:22][GITHUB] GITHUB KOD INDIR + UYARLA
-[08:33:22][GITHUB] Repo: getsentry/sentry-python
-[08:33:24][GITHUB] Repo indirildi: getsentry/sentry-python
-[08:35:28][SISTEM] Durum: 566 bilgi, 113 beceri, 12 ajan
-[08:35:58][AJAN] Tum ajanlar uretildi
-[08:36:31][OGREN] OGREN [programlama]: Python
-[08:39:11][OGREN] KAYDEDILDI [programlama]: Python
-[08:39:41][BECERI] BECERI OGREN: veri
-[08:40:41][BECERI] BECERI KAYDEDILDI [veri]: beceri_1791700781_csv_to_dict
-[08:41:14][GITHUB] Yukleme hata: 409
-[08:41:16][GITHUB] Yuklendi: Hakan-19/nyvra-otonom-ai/_son_log.txt
-[08:41:16][SISTEM] Durum: 567 bilgi, 114 beceri, 12 ajan
-[08:41:46][GELISIM] KENDINI GELISTIR
-[08:42:03][GELISIM] KOD GUNCELLENDI. Yedek: C:\Users\hakan\yedekler_oto\nyvra_20261011_084203.py
-[08:42:03][GELISIM] YENIDEN BASLATILIYOR (10 dk doldu)
-[08:42:05][SISTEM] ==================================================
-[08:42:05][SISTEM] NYVRA OTONOM v3.0 - AJAN FABRIKASI + BECERI
-[08:42:05][SISTEM] ==================================================
-[08:42:08][OK] Ollama hazir
-[08:42:08][SISTEM] OTONOM DONGU BASLADI
-[08:42:08][GITHUB] GITHUB KOD INDIR + UYARLA
-[08:42:08][GITHUB] Repo: tiangolo/typer
-[08:42:10][GITHUB] Repo indirildi: tiangolo/typer
-[08:44:57][GITHUB] KOD BECERI: repokod_1791700930
-[08:45:33][OGREN] OGREN [bilim]: Kuantum Mechaniği
-[08:49:29][OGREN] KAYDEDILDI [bilim]: Kuantum Mechaniği
-[08:49:59][BECERI] BECERI OGREN: guvenlik
-[08:51:29][BECERI] BECERI KAYDEDILDI [guvenlik]: beceri_1791701399_dosya_hash_hesapla
-[08:51:59][AJAN] Tum ajanlar uretildi
-[08:51:59][SISTEM] Durum: 568 bilgi, 116 beceri, 12 ajan
-[08:52:33][OGREN] OGREN [yapayzeka]: LLM
-[08:57:38][OGREN] KAYDEDILDI [yapayzeka]: LLM
-[08:58:12][OGREN] OGREN [sanat]: Müzik
-[09:01:56][OGREN] KAYDEDILDI [sanat]: Müzik
-[09:02:37][OGREN] OGREN [tarih]: Antik Uygarliklar: Hitit Devleti
-[09:07:13][OGREN] KAYDEDILDI [tarih]: Antik Uygarliklar: Hitit Devleti
-[09:07:49][OGREN] OGREN [felsefe]: Varoluşculuk
-[09:10:58][OGREN] KAYDEDILDI [felsefe]: Varoluşculuk
-[09:10:58][SISTEM] Durum: 572 bilgi, 116 beceri, 12 ajan
-[09:11:34][OGREN] OGREN [psikoloji]: Duygu Isleme
-[09:17:13][OGREN] KAYDEDILDI [psikoloji]: Duygu Isleme
-[09:17:43][GITHUB] GITHUB KOD INDIR + UYARLA
-[09:17:44][GITHUB] Repo: marshmallow-code/marshmallow
-[09:17:45][GITHUB] Repo indirildi: marshmallow-code/marshmallow
-[09:18:54][GITHUB] KOD BECERI: repokod_1791703065
 [09:19:25][GITHUB] GITHUB OGREN (kalan: 5000/5000)
 [09:19:25][GITHUB] GitHub dil filtresi: python
 [09:19:26][GITHUB] GitHub: 3 repo ogrenildi
@@ -98,3 +52,49 @@
 [09:59:49][BECERI] BECERI KAYDEDILDI [internet]: beceri_1791705522_api_verisi_cek
 [09:59:49][SISTEM] Durum: 580 bilgi, 133 beceri, 12 ajan
 [10:00:21][GITHUB] Yukleme hata: 409
+[10:00:23][GITHUB] Yuklendi: Hakan-19/nyvra-otonom-ai/_son_log.txt
+[10:00:53][BECERI] BECERI OGREN: veri_bilimi
+[10:02:36][BECERI] BECERI KAYDEDILDI [veri_bilimi]: beceri_1791705653_veri_olceklemesi
+[10:03:10][OGREN] OGREN [isletme]: Pazarlama
+[10:07:20][OGREN] KAYDEDILDI [isletme]: Pazarlama
+[10:07:50][GELISIM] KENDINI GELISTIR
+[10:08:10][GELISIM] KOD GUNCELLENDI. Yedek: C:\Users\hakan\yedekler_oto\nyvra_20261011_100810.py
+[10:08:10][GELISIM] YENIDEN BASLATILIYOR (10 dk doldu)
+[10:08:13][SISTEM] ==================================================
+[10:08:13][SISTEM] NYVRA OTONOM v3.0 - AJAN FABRIKASI + BECERI
+[10:08:13][SISTEM] ==================================================
+[10:08:15][OK] Ollama hazir
+[10:08:15][SISTEM] OTONOM DONGU BASLADI
+[10:08:19][OGREN] OGREN [saglik]: beslenme
+[10:12:18][OGREN] KAYDEDILDI [saglik]: beslenme
+[10:12:53][OGREN] OGREN [cografya]: ülkeler
+[10:15:58][OGREN] KAYDEDILDI [cografya]: ülkeler
+[10:16:28][GITHUB] GITHUB KOD INDIR + UYARLA
+[10:16:29][GITHUB] Repo: sqlalchemy/sqlalchemy
+[10:16:31][GITHUB] Repo indirildi: sqlalchemy/sqlalchemy
+[10:18:15][INSA] INSA UYGULA
+[10:20:10][INSA] INSA BECERI: insa_1791706695 (ses_sentez)
+[10:20:10][SISTEM] Durum: 583 bilgi, 135 beceri, 12 ajan
+[10:20:40][AJAN] Tum ajanlar uretildi
+[10:21:10][GITHUB] GITHUB KOD INDIR + UYARLA
+[10:21:11][GITHUB] Repo: tiangolo/typer
+[10:21:13][GITHUB] Repo indirildi: tiangolo/typer
+[10:22:45][GITHUB] KOD BECERI: repokod_1791706873
+[10:23:16][GITHUB] GITHUB OGREN (kalan: 5000/5000)
+[10:23:16][GITHUB] GitHub dil filtresi: python
+[10:23:17][GITHUB] GitHub: 3 repo ogrenildi
+[10:23:53][OGREN] OGREN [teknoloji]: IoT güvenlik teknolojileri
+[10:29:21][OGREN] KAYDEDILDI [teknoloji]: IoT güvenlik teknolojileri
+[10:29:21][SISTEM] Durum: 587 bilgi, 136 beceri, 12 ajan
+[10:29:57][OGREN] OGREN [ekonomi]: Mikroekonomi
+[10:34:13][OGREN] KAYDEDILDI [ekonomi]: Mikroekonomi
+[10:34:43][AJAN] Tum ajanlar uretildi
+[10:35:13][BECERI] BECERI OGREN: medya
+[10:36:14][BECERI] BECERI KAYDEDILDI [medya]: beceri_1791707713_video_optimizasyon
+[10:36:44][BECERI] BECERI OGREN: medya
+[10:37:56][BECERI] BECERI KAYDEDILDI [medya]: beceri_1791707804_video_ses_cikar
+[10:37:56][SISTEM] Durum: 588 bilgi, 138 beceri, 12 ajan
+[10:38:26][AJAN] Tum ajanlar uretildi
+[10:38:56][BECERI] BECERI OGREN: dosya
+[10:40:11][BECERI] BECERI KAYDEDILDI [dosya]: beceri_1791707936_dosya_adi_degistir
+[10:41:17][GITHUB] Yukleme hata: 409
