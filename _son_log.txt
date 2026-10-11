@@ -1,100 +1,100 @@
-[10:12:53][OGREN] OGREN [cografya]: ülkeler
-[10:15:58][OGREN] KAYDEDILDI [cografya]: ülkeler
-[10:16:28][GITHUB] GITHUB KOD INDIR + UYARLA
-[10:16:29][GITHUB] Repo: sqlalchemy/sqlalchemy
-[10:16:31][GITHUB] Repo indirildi: sqlalchemy/sqlalchemy
-[10:18:15][INSA] INSA UYGULA
-[10:20:10][INSA] INSA BECERI: insa_1791706695 (ses_sentez)
-[10:20:10][SISTEM] Durum: 583 bilgi, 135 beceri, 12 ajan
-[10:20:40][AJAN] Tum ajanlar uretildi
-[10:21:10][GITHUB] GITHUB KOD INDIR + UYARLA
-[10:21:11][GITHUB] Repo: tiangolo/typer
-[10:21:13][GITHUB] Repo indirildi: tiangolo/typer
-[10:22:45][GITHUB] KOD BECERI: repokod_1791706873
-[10:23:16][GITHUB] GITHUB OGREN (kalan: 5000/5000)
-[10:23:16][GITHUB] GitHub dil filtresi: python
-[10:23:17][GITHUB] GitHub: 3 repo ogrenildi
-[10:23:53][OGREN] OGREN [teknoloji]: IoT güvenlik teknolojileri
-[10:29:21][OGREN] KAYDEDILDI [teknoloji]: IoT güvenlik teknolojileri
-[10:29:21][SISTEM] Durum: 587 bilgi, 136 beceri, 12 ajan
-[10:29:57][OGREN] OGREN [ekonomi]: Mikroekonomi
-[10:34:13][OGREN] KAYDEDILDI [ekonomi]: Mikroekonomi
-[10:34:43][AJAN] Tum ajanlar uretildi
-[10:35:13][BECERI] BECERI OGREN: medya
-[10:36:14][BECERI] BECERI KAYDEDILDI [medya]: beceri_1791707713_video_optimizasyon
-[10:36:44][BECERI] BECERI OGREN: medya
-[10:37:56][BECERI] BECERI KAYDEDILDI [medya]: beceri_1791707804_video_ses_cikar
-[10:37:56][SISTEM] Durum: 588 bilgi, 138 beceri, 12 ajan
-[10:38:26][AJAN] Tum ajanlar uretildi
-[10:38:56][BECERI] BECERI OGREN: dosya
-[10:40:11][BECERI] BECERI KAYDEDILDI [dosya]: beceri_1791707936_dosya_adi_degistir
-[10:41:17][GITHUB] Yukleme hata: 409
-[10:41:19][GITHUB] Yuklendi: Hakan-19/nyvra-otonom-ai/_son_log.txt
-[10:41:19][SISTEM] Durum: 588 bilgi, 139 beceri, 12 ajan
-[10:41:49][BECERI] BECERI OGREN: dosya
-[10:43:07][BECERI] BECERI KAYDEDILDI [dosya]: beceri_1791708109_dosya_adi_degistir
-[10:43:37][BECERI] BECERI OGREN: otomasyon
-[10:44:39][BECERI] BECERI KAYDEDILDI [otomasyon]: beceri_1791708217_dosya_oku
-[10:45:10][GITHUB] GITHUB OGREN (kalan: 5000/5000)
-[10:45:10][GITHUB] GitHub dil filtresi: python
-[10:45:11][GITHUB] GitHub: 3 repo ogrenildi
-[10:45:41][BECERI] BECERI OGREN: medya
-[10:47:28][BECERI] BECERI KAYDEDILDI [medya]: beceri_1791708341_video_format_donustur
-[10:47:28][SISTEM] Durum: 591 bilgi, 142 beceri, 12 ajan
-[10:47:58][BECERI] BECERI OGREN: sistem
-[10:48:56][BECERI] BECERI KAYDEDILDI [sistem]: beceri_1791708478_dosya_oku
-[10:49:26][GITHUB] GITHUB KOD INDIR + UYARLA
-[10:49:27][GITHUB] Repo: pydantic/pydantic
-[10:49:29][GITHUB] Repo indirildi: pydantic/pydantic
-[10:51:30][GITHUB] KOD BECERI: repokod_1791708569
-[10:52:00][GITHUB] GITHUB KOD INDIR + UYARLA
-[10:52:01][GITHUB] Repo: tiangolo/typer
-[10:52:03][GITHUB] Repo indirildi: tiangolo/typer
-[10:54:35][GITHUB] KOD BECERI: repokod_1791708723
-[10:55:10][OGREN] OGREN [dil]: Etimoloji
-[10:59:35][OGREN] KAYDEDILDI [dil]: Etimoloji
-[10:59:35][SISTEM] Durum: 592 bilgi, 145 beceri, 12 ajan
-[11:00:05][AJAN] Tum ajanlar uretildi
-[11:00:35][AJAN] Tum ajanlar uretildi
-[11:01:05][BECERI] BECERI OGREN: otomasyon
-[11:02:08][BECERI] BECERI KAYDEDILDI [otomasyon]: beceri_1791709265_dosya_ac_ve_oku
-[11:02:38][GITHUB] GITHUB KOD INDIR + UYARLA
-[11:02:39][GITHUB] Repo: faker-py/faker
-[11:02:39][GITHUB] Repo bulunamadi (404): faker-py/faker
-[11:02:39][SISTEM] Durum: 592 bilgi, 146 beceri, 12 ajan
-[11:03:10][GITHUB] GITHUB OGREN (kalan: 5000/5000)
-[11:03:10][GITHUB] GitHub dil filtresi: python
-[11:03:11][GITHUB] GitHub: 3 repo ogrenildi
-[11:03:41][GITHUB] GITHUB KOD INDIR + UYARLA
-[11:03:41][GITHUB] Repo: scikit-learn/scikit-learn
-[11:03:44][GITHUB] Repo indirildi: scikit-learn/scikit-learn
-[11:05:06][GITHUB] KOD BECERI: repokod_1791709424
-[11:05:36][GELISIM] KENDINI GELISTIR
-[11:05:53][GELISIM] KOD GUNCELLENDI. Yedek: C:\Users\hakan\yedekler_oto\nyvra_20261011_110553.py
-[11:05:53][GELISIM] YENIDEN BASLATILIYOR (10 dk doldu)
-[11:05:55][SISTEM] ==================================================
-[11:05:55][SISTEM] NYVRA OTONOM v3.0 - AJAN FABRIKASI + BECERI
-[11:05:55][SISTEM] ==================================================
-[11:05:57][OK] Ollama hazir
-[11:05:57][SISTEM] OTONOM DONGU BASLADI
-[11:05:57][GITHUB] GITHUB KOD INDIR + UYARLA
-[11:05:57][GITHUB] Repo: scikit-learn/scikit-learn
-[11:06:00][GITHUB] Repo indirildi: scikit-learn/scikit-learn
-[11:07:49][GITHUB] KOD BECERI: repokod_1791709560
-[11:08:24][OGREN] OGREN [muzik]: Enstrumanlar
-[11:12:46][OGREN] KAYDEDILDI [muzik]: Enstrumanlar
-[11:13:16][GITHUB] GITHUB KOD INDIR + UYARLA
-[11:13:17][GITHUB] Repo: pallets/jinja
-[11:13:18][GITHUB] Repo indirildi: pallets/jinja
-[11:15:08][GITHUB] GITHUB KOD INDIR + UYARLA
-[11:15:09][GITHUB] Repo: psf/black
-[11:15:10][GITHUB] Repo indirildi: psf/black
-[11:16:08][GITHUB] KOD BECERI: repokod_1791710110
-[11:16:08][SISTEM] Durum: 596 bilgi, 149 beceri, 12 ajan
-[11:16:45][OGREN] OGREN [yemek]: Türk Mutfağında Lahmacun
-[11:21:04][OGREN] KAYDEDILDI [yemek]: Türk Mutfağında Lahmacun
-[11:21:35][GITHUB] GITHUB OGREN (kalan: 5000/5000)
-[11:21:35][GITHUB] GitHub dil filtresi: python
-[11:21:35][GITHUB] GitHub: 3 repo ogrenildi
-[11:22:05][AJAN] Tum ajanlar uretildi
-[11:22:37][GITHUB] Yukleme hata: 409
+[12:41:21][AJAN] Tum ajanlar uretildi
+[12:41:51][AJAN] Tum ajanlar uretildi
+[12:42:24][SISTEM] Durum: 618 bilgi, 164 beceri, 12 ajan
+[12:42:54][GITHUB] GITHUB KOD INDIR + UYARLA
+[12:42:55][GITHUB] Repo: python-poetry/cleo
+[12:42:56][GITHUB] Repo indirildi: python-poetry/cleo
+[12:44:10][GITHUB] KOD BECERI: repokod_1791715376
+[12:44:44][OGREN] OGREN [yapayzeka]: LLM
+[12:48:13][OGREN] KAYDEDILDI [yapayzeka]: LLM
+[12:48:43][GITHUB] GITHUB KOD INDIR + UYARLA
+[12:48:43][GITHUB] Repo: psf/requests
+[12:48:45][GITHUB] Repo indirildi: psf/requests
+[12:50:31][OGREN] OGREN [sanat]: Müzik
+[12:54:51][OGREN] KAYDEDILDI [sanat]: Müzik
+[12:54:51][SISTEM] Durum: 620 bilgi, 165 beceri, 12 ajan
+[12:55:21][OKUMA] KITAP OKU -> KOD YAZ
+[13:00:16][OGREN] OGREN [tarih]: Orta Çağ
+[13:03:03][OGREN] KAYDEDILDI [tarih]: Orta Çağ
+[13:03:33][GITHUB] GITHUB KOD INDIR + UYARLA
+[13:03:34][GITHUB] Repo: pallets/flask
+[13:03:35][GITHUB] Repo indirildi: pallets/flask
+[13:06:04][GELISIM] KENDINI GELISTIR
+[13:06:24][GELISIM] KOD GUNCELLENDI. Yedek: C:\Users\hakan\yedekler_oto\nyvra_20261011_130624.py
+[13:06:24][GELISIM] YENIDEN BASLATILIYOR (10 dk doldu)
+[13:06:26][SISTEM] ==================================================
+[13:06:26][SISTEM] NYVRA OTONOM v3.0 - AJAN FABRIKASI + BECERI
+[13:06:26][SISTEM] ==================================================
+[13:06:28][OK] Ollama hazir
+[13:06:28][SISTEM] OTONOM DONGU BASLADI
+[13:06:28][GITHUB] GITHUB KOD INDIR + UYARLA
+[13:06:28][GITHUB] Repo: Textualize/rich
+[13:06:31][GITHUB] Repo indirildi: Textualize/rich
+[13:09:49][GITHUB] GITHUB OGREN (kalan: 5000/5000)
+[13:09:49][GITHUB] GitHub dil filtresi: python
+[13:09:50][GITHUB] GitHub: 3 repo ogrenildi
+[13:10:20][GITHUB] GITHUB KOD INDIR + UYARLA
+[13:10:20][GITHUB] Repo: tqdm/tqdm
+[13:10:22][GITHUB] Repo indirildi: tqdm/tqdm
+[13:11:29][GITHUB] KOD BECERI: repokod_1791717022
+[13:11:59][GITHUB] GITHUB OGREN (kalan: 5000/5000)
+[13:11:59][GITHUB] GitHub dil filtresi: python
+[13:12:00][GITHUB] GitHub: 3 repo ogrenildi
+[13:12:00][SISTEM] Durum: 627 bilgi, 166 beceri, 12 ajan
+[13:12:30][GELISIM] KENDINI GELISTIR
+[13:12:50][GELISIM] KOD GUNCELLENDI. Yedek: C:\Users\hakan\yedekler_oto\nyvra_20261011_131250.py
+[13:12:50][GELISIM] Restart ertelendi (213 sn kaldi)
+[13:13:20][GITHUB] GITHUB KOD INDIR + UYARLA
+[13:13:20][GITHUB] Repo: Textualize/rich
+[13:13:23][GITHUB] Repo indirildi: Textualize/rich
+[13:14:46][GITHUB] GITHUB OGREN (kalan: 5000/5000)
+[13:14:46][GITHUB] GitHub dil filtresi: python
+[13:14:47][GITHUB] GitHub: 3 repo ogrenildi
+[13:15:17][GITHUB] GITHUB OGREN (kalan: 5000/5000)
+[13:15:17][GITHUB] GitHub dil filtresi: python
+[13:15:18][GITHUB] GitHub: 3 repo ogrenildi
+[13:15:18][SISTEM] Durum: 633 bilgi, 166 beceri, 12 ajan
+[13:15:48][AJAN] Tum ajanlar uretildi
+[13:16:18][GITHUB] GITHUB KOD INDIR + UYARLA
+[13:16:19][GITHUB] Repo: pallets/flask
+[13:16:20][GITHUB] Repo indirildi: pallets/flask
+[13:18:26][BECERI] BECERI OGREN: otomasyon
+[13:19:53][BECERI] BECERI KAYDEDILDI [otomasyon]: beceri_1791717506_dosya_kopyala
+[13:20:23][BECERI] BECERI OGREN: dosya
+[13:21:40][BECERI] BECERI KAYDEDILDI [dosya]: beceri_1791717623_dosya_adi_degistir
+[13:21:40][SISTEM] Durum: 633 bilgi, 168 beceri, 12 ajan
+[13:22:48][OGREN] OGREN [felsefe]: Epistemoloji
+[13:25:31][OGREN] KAYDEDILDI [felsefe]: Epistemoloji
+[13:26:02][GITHUB] GITHUB OGREN (kalan: 5000/5000)
+[13:26:02][GITHUB] GitHub dil filtresi: python
+[13:26:03][GITHUB] GitHub: 3 repo ogrenildi
+[13:26:33][GITHUB] GITHUB KOD INDIR + UYARLA
+[13:26:33][GITHUB] Repo: tqdm/tqdm
+[13:26:35][GITHUB] Repo indirildi: tqdm/tqdm
+[13:27:51][SISTEM] Durum: 637 bilgi, 168 beceri, 12 ajan
+[13:28:21][GITHUB] GITHUB KOD INDIR + UYARLA
+[13:28:21][GITHUB] Repo: jazzband/pip-tools
+[13:28:23][GITHUB] Repo indirildi: jazzband/pip-tools
+[13:29:46][GITHUB] KOD BECERI: repokod_1791718103
+[13:30:16][BECERI] BECERI OGREN: dosya
+[13:31:43][BECERI] BECERI KAYDEDILDI [dosya]: beceri_1791718216_dosya_adi_degistir
+[13:32:13][BECERI] BECERI OGREN: veri
+[13:33:10][BECERI] BECERI KAYDEDILDI [veri]: beceri_1791718333_csv_to_dict
+[13:33:41][GITHUB] GITHUB OGREN (kalan: 5000/5000)
+[13:33:41][GITHUB] GitHub dil filtresi: python
+[13:33:42][GITHUB] GitHub: 3 repo ogrenildi
+[13:33:42][SISTEM] Durum: 640 bilgi, 171 beceri, 12 ajan
+[13:34:12][BECERI] BECERI OGREN: sistem
+[13:35:15][BECERI] BECERI KAYDEDILDI [sistem]: beceri_1791718452_dosya_oku
+[13:35:51][OGREN] OGREN [psikoloji]: Duygu İşleme
+[13:42:12][OGREN] KAYDEDILDI [psikoloji]: Duygu İşleme
+[13:42:42][BECERI] BECERI OGREN: medya
+[13:44:16][BECERI] BECERI KAYDEDILDI [medya]: beceri_1791718962_video_ses_cikar
+[13:44:51][OGREN] OGREN [matematik]: sayi teorisi
+[13:47:43][SISTEM] Durum: 641 bilgi, 173 beceri, 12 ajan
+[13:48:18][OGREN] OGREN [matematik]: sayi teorisi
+[13:53:25][OGREN] KAYDEDILDI [matematik]: sayi teorisi
+[13:53:55][GITHUB] GITHUB KOD INDIR + UYARLA
+[13:53:55][GITHUB] Repo: python-poetry/cleo
+[13:53:57][GITHUB] Repo indirildi: python-poetry/cleo
+[13:56:23][GITHUB] Yukleme hata: 409
