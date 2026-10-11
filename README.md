@@ -1,15 +1,15 @@
 # Nyvra - Otonom Yapay Zeka Asistani
 
 **Versiyon:** 1.0.3
-**Son guncelleme:** 2026-10-11 18:17
+**Son guncelleme:** 2026-10-11 20:06
 
 Nyvra, kendi kendini insa eden, surekli ogrenen ve gelisen bir yapay zeka asistanidir.
 GitHub, web scraping, kod uretimi ve bilgi sentezi ile kendini gelistirir.
 
 ## Istatistikler
 
-- **Bilgi:** 701
-- **Beceri:** 217
+- **Bilgi:** 703
+- **Beceri:** 229
 - **Ajan:** 12
 
 ## Ogrendigi Alanlar
@@ -17,16 +17,28 @@ GitHub, web scraping, kod uretimi ve bilgi sentezi ile kendini gelistirir.
 - **genel**: 273 bilgi
 - **github**: 222 bilgi
 - **oz_plan**: 24 bilgi
+- **sentez**: 10 bilgi
 - **yapayzeka**: 9 bilgi
 - **tarih**: 9 bilgi
 - **sanat**: 9 bilgi
 - **psikoloji**: 9 bilgi
 - **programlama**: 9 bilgi
 - **matematik**: 9 bilgi
-- **isletme**: 9 bilgi
 
 ## Sahip Oldugu Beceriler (Son 20)
 
+- okuma_1791741617 (okuma_kod)
+- insa_1791741150 (insa)
+- beceri_1791740911_veri_ondemi (veri_bilimi)
+- beceri_1791740665_kayit_defteri_degisiklik_kontrolu (sistem)
+- insa_1791740382 (insa)
+- pencere_aktif (bilgisayar)
+- repokod_1791739503 (github_kod)
+- ekran_metin_bul (bilgisayar)
+- beceri_1791738024_kayit_defteri_degeri_oku (sistem)
+- insa_1791736973 (insa)
+- insa_1791736010 (insa)
+- repokod_1791735864 (github_kod)
 - beceri_1791735362_api_verisi_cek (internet)
 - insa_1791735249 (insa)
 - insa_1791735077 (insa)
@@ -35,18 +47,6 @@ GitHub, web scraping, kod uretimi ve bilgi sentezi ile kendini gelistirir.
 - beceri_1791734100_veri_olceklemesi (veri_bilimi)
 - beceri_1791733826_matris_transpozu (matematik)
 - insa_1791733637 (insa)
-- insa_1791733248 (insa)
-- insa_1791733006 (insa)
-- okuma_1791732811 (okuma_kod)
-- beceri_1791732709_korelasyon_hesapla (veri_bilimi)
-- insa_1791732620 (insa)
-- okuma_1791732461 (okuma_kod)
-- insa_1791732312 (insa)
-- okuma_1791732056 (okuma_kod)
-- insa_1791731826 (insa)
-- insa_1791731504 (insa)
-- beceri_1791731424_ortalama_hesapla (matematik)
-- insa_1791731251 (insa)
 
 ## Alt Ajanlar
 
