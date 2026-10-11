@@ -1,5 +1,3 @@
-[03:44:20][GITHUB] GitHub dil filtresi: python
-[03:44:21][GITHUB] GitHub: 3 repo ogrenildi
 [03:44:51][AJAN] Tum ajanlar uretildi
 [03:45:21][GITHUB] GITHUB KOD INDIR + UYARLA
 [03:45:22][GITHUB] Repo: psf/black
@@ -98,3 +96,5 @@
 [04:49:33][GITHUB] Repo indirildi: urllib3/urllib3
 [04:52:06][SISTEM] Durum: 489 bilgi, 79 beceri, 12 ajan
 [04:52:38][GITHUB] Yukleme hata: 409
+[04:52:40][GITHUB] Yuklendi: Hakan-19/nyvra-otonom-ai/_son_log.txt
+[04:53:12][GITHUB] Yukleme hata: 409
